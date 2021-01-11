@@ -20,10 +20,11 @@ html {
 }
 
 .hero {
-  background-image: url(/images/social-justice-banner.jpg);
-  background: linear-gradient(rgba(31, 44, 108, 0.65), rgba(31, 44, 108, 0.65)), rgba(0, 0, 0, 0.55) url(/images/social-justice-banner.jpg) no-repeat;
+  background-image: url(/images/social-justice-banner-3.jpg);
+  background: linear-gradient(rgba(31, 44, 108, 0.65), rgba(31, 44, 108, 0.65)), rgba(0, 0, 0, 0.55) url(/images/social-justice-banner-3.jpg) no-repeat;
   background-attachment: fixed;
   background-size: cover;
+  background-position: right;
   color: white;
   box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
   font-family: 'Poppins', sans-serif;
